@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8a39e30-d943-4d87-add9-62164558ed50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lHF8BhtUxGOIx10bFwShPCjrM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager" selected="Application.Calcul">
+    <configuration name="Calcul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calcul" />
+      <module name="MyFirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionValue" />
+      <module name="MyFirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TableOfSquares" />
+      <module name="MyFirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Сalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Сalc" />
+      <module name="MyFirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Сalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Сalculator" />
+      <module name="MyFirst" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calcul" />
+        <item itemvalue="Application.Сalc" />
+        <item itemvalue="Application.Сalculator" />
+        <item itemvalue="Application.TableOfSquares" />
+        <item itemvalue="Application.FunctionValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state width="1920" height="364" key="GridCell.Tab.0.bottom" timestamp="1607614121677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121677" />
+    <state width="1920" height="364" key="GridCell.Tab.0.center" timestamp="1607614121677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121677" />
+    <state width="1920" height="364" key="GridCell.Tab.0.left" timestamp="1607614121677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121677" />
+    <state width="1920" height="364" key="GridCell.Tab.0.right" timestamp="1607614121677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121677" />
+    <state width="1920" height="364" key="GridCell.Tab.1.bottom" timestamp="1607614121580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121580" />
+    <state width="1920" height="364" key="GridCell.Tab.1.center" timestamp="1607614121580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121580" />
+    <state width="1920" height="364" key="GridCell.Tab.1.left" timestamp="1607614121580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121580" />
+    <state width="1920" height="364" key="GridCell.Tab.1.right" timestamp="1607614121580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="364" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607614121580" />
+    <state x="461" y="150" key="SettingsEditor" timestamp="1607615477777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607615477777" />
+  </component>
+</project>
